@@ -5,8 +5,8 @@
 replicaCount: 2
 
 image:
-  repository:  nehashirsat/devops_repo
-  tag: v1.1.0
+  repository:  aakankshidocker/machineinfoapp
+  tag: v1.1.5
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
